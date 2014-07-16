@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Fondamento-Italic.otf.GlyphOrder.ttx"/>
+  <head src="Fondamento-Italic.otf._h_e_a_d.ttx"/>
+  <hhea src="Fondamento-Italic.otf._h_h_e_a.ttx"/>
+  <maxp src="Fondamento-Italic.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Fondamento-Italic.otf.O_S_2f_2.ttx"/>
+  <name src="Fondamento-Italic.otf._n_a_m_e.ttx"/>
+  <cmap src="Fondamento-Italic.otf._c_m_a_p.ttx"/>
+  <post src="Fondamento-Italic.otf._p_o_s_t.ttx"/>
+  <CFF src="Fondamento-Italic.otf.C_F_F_.ttx"/>
+  <GPOS src="Fondamento-Italic.otf.G_P_O_S_.ttx"/>
+  <GSUB src="Fondamento-Italic.otf.G_S_U_B_.ttx"/>
+  <hmtx src="Fondamento-Italic.otf._h_m_t_x.ttx"/>
+  <kern src="Fondamento-Italic.otf._k_e_r_n.ttx"/>
+</ttFont>
