@@ -1,0 +1,32 @@
+{
+  "name": "Fondamento",
+  "designer": "Astigmatic",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Handwriting",
+  "size": 44342,
+  "fonts": [
+    {
+      "name": "Fondamento",
+      "style": "italic",
+      "weight": 400,
+      "filename": "Fondamento-Italic.ttf",
+      "postScriptName": "Fondamento-Italic",
+      "fullName": "Fondamento-Italic",
+      "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Fondamento Italic\""
+    },
+    {
+      "name": "Fondamento",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Fondamento-Regular.ttf",
+      "postScriptName": "Fondamento-Regular",
+      "fullName": "Fondamento Regular",
+      "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Fondamento\""
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-11-16"
+}
